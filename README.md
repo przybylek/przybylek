@@ -1,6 +1,6 @@
 ## Short Bio
 
-Adam Przybyłek is an assistant professor at Gdansk University of Technology in Poland, where he has been working since October 2012. In the past, he was a network consultant and instructor at Cisco Networking Academy. More recently, he worked as a data scientist at Decision Sciences Company, where he developed innovative AI-powered solutions that supported the car insurance sales process. He obtained his Ph.D. degree in Software Engineering in 2011. He also holds a master's degree in Management Information Systems. His main research interests are in empirical software engineering with focus on agile methods, software modularity, and post object-oriented paradigms. 
+Adam Przybyłek is an assistant professor at Gdansk University of Technology in Poland, where he has been working since October 2012. He holds a master's degree in Information Systems and a PhD degree in Software Engineering. In the past, he was a network consultant and instructor at Cisco Networking Academy. More recently, he worked as a data scientist at Decision Sciences Company, where he developed innovative AI-powered solutions that supported the car insurance sales process. His main research interests are in empirical software engineering with focus on agile software development, software modularity, and aspect-oriented programming. 
 
 ## Organizing Committees
 
