@@ -6,7 +6,7 @@ Adam Przybyłek is an assistant professor at Gdansk University of Technology in 
 
 -	Program Chair of the 39th ACM/SIGAPP Symposium On Applied Computing ([ACM SAC'24](https://www.sigapp.org/sac/sac2024/))
 -	Program Chair of the 32nd International Conference on Information Systems Development (ISD'24)
--	General Chair of the International Conference on Lean and Agile Software Development ([https://lasd.pl](https://lasd.pl)): LASD'17, LASD'18, LASD'19, LASD'20, LASD'21, LASD'22, LASD'23, LASD'24
+-	General Chair of the International Conference (converted into a track under the same name in 2023) on Lean and Agile Software Development ([https://lasd.pl](https://lasd.pl)): LASD'17, LASD'18, LASD'19, LASD'20, LASD'21, LASD'22, LASD'23, LASD'24
 -	Chair of the 24th Conference on Practical Aspects of and Solutions for Software Engineering ([KKIO'23](https://fedcsis.org/sessions/s3e/kkio)) 
 -	Chair of the Workshop on Personalization and Recommender Systems ([PeRS'22](https://fedcsis.org/2022/pers), [PeRS'23](https://pers.lasd.pl))
 -	Chair of the Symposium on Balancing Traditional and Modern Software Process Approaches ([BTMSPA'16](https://fedcsis.org/2016/btmspa))
