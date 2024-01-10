@@ -29,5 +29,6 @@ Adam Przybyłek is an assistant professor at Gdansk University of Technology in 
 - LinkedIn: [https://www.linkedin.com/in/adampap/](https://www.linkedin.com/in/adampap/)
 - DBLP: [https://dblp.org/pid/90/8118.html](https://dblp.org/pid/90/8118.html)
 - ORCID: [https://orcid.org/0000-0002-8231-709X](https://orcid.org/0000-0002-8231-709X)
+- Scopus Author ID: [34977602900](https://www.scopus.com/authid/detail.uri?authorId=34977602900)
 - Web of Science: [AFR-3682-2022](https://www.webofscience.com/wos/author/record/AFR-3682-2022)
 - Google Scholar: [https://scholar.google.com/citations?user=zSi0dWIAAAAJ&hl=en](https://scholar.google.com/citations?user=zSi0dWIAAAAJ&hl=en)
