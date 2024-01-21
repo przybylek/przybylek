@@ -14,11 +14,12 @@ Adam Przybyłek is an assistant professor at Gdansk University of Technology in 
 
 ## Programme Committees
 
--	International Conference on Agile Software Development: XP'23, XP'24
--	International Conference on Evaluation of Novel Approaches to Software Engineering: ENASE'15, ENASE'16, ENASE'17, ENASE'18, ENASE'19, ENASE'20, ENASE'21, ENASE'22, ENASE'23, ENASE'24
--	ACM Symposium on Applied Computing: Special Track on Operating Systems: ACM SAC'15, ACM SAC'16, ACM SAC'17, ACM SAC'18, ACM SAC'19, ACM SAC'20, ACM SAC'21, ACM SAC'22, ACM SAC'23, ACM SAC'24
--	ADBIS Workshop on Modern Approaches in Data Engineering and Information System Design: MADEISD'19, MADEISD'20, MADEISD'21, MADEISD'22, MADEISD'23
--	International Conference on Information, Process, and Knowledge Management: eKNOW'21, eKNOW'22, eKNOW'23, eKNOW'24
+-	International Conference on Agile Software Development: XP'23, [XP'24](https://www.agilealliance.org/xp2024)
+-	International Conference on Evaluation of Novel Approaches to Software Engineering: ENASE'15, ENASE'16, ENASE'17, ENASE'18, ENASE'19, ENASE'20, ENASE'21, ENASE'22, ENASE'23, [ENASE'24](https://enase.scitevents.org)
+-	ACM Symposium on Applied Computing: Special Track on Operating Systems: ACM SAC'15, ACM SAC'16, ACM SAC'17, ACM SAC'18, ACM SAC'19, ACM SAC'20, ACM SAC'21, ACM SAC'22, ACM SAC'23, [ACM SAC'24](https://sites.google.com/view/sac2024os)
+-	ADBIS Workshop on Modern Approaches in Data Engineering and Information System Design: MADEISD'19, MADEISD'20, MADEISD'21, MADEISD'22, [MADEISD'23](https://adbis2023.fon.bg.ac.rs)
+-	International Conference on Information, Process, and Knowledge Management: eKNOW'21, eKNOW'22, eKNOW'23, [eKNOW'24](https://www.iaria.org/conferences2024/eKNOW24.html)
+-	International Workshop on Recent Advances in Program Analysis and Software Testing: [RAPAST@TENCON'19](https://www.tencon2019.org/SS02.pdf), [RAPAST@ISEC'23](https://rapast2023.github.io/rapast), [RAPAST@QRS'24](https://qrs24.techconf.org/track/workshops/rapast)
 -	International Conference on Information Systems Development: ISD'08, ISD'09
 -	Supervisory Committee of the Software Systems Development & Applications area at FedCSIS'17
 
