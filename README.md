@@ -6,7 +6,7 @@ Adam Przybyłek is an assistant professor at Gdansk University of Technology in 
 
 -	Program Co-Chair of the 39th ACM/SIGAPP Symposium On Applied Computing ([ACM SAC'24](https://www.sigapp.org/sac/sac2024))
 -	Program Chair of the 32nd International Conference on Information Systems Development ([ISD'24](https://isd2024.ug.edu.pl))
--	Poster Co-Chair of the 25th International Conference on Agile Software Development ([XP'24](https://www.agilealliance.org/xp2024))
+-	Poster Co-Chair of the 25th International Conference on Agile Software Development ([Posters@XP'24](https://www.agilealliance.org/xp2024/posters/))
 -	Chair of the International Conference (converted into a track under the same name in 2023) on Lean and Agile Software Development ([https://lasd.pl](https://lasd.pl)): [LASD@FedCSIS'17](https://www.fedcsis.org/2017/lasd), [LASD@FedCSIS'18](https://www.fedcsis.org/2018/lasd), [LASD@FedCSIS'19](https://www.fedcsis.org/2019/lasd), [LASD@FedCSIS'20](https://www.fedcsis.org/2020/lasd), [LASD'21](https://y2021.lasd.pl), [LASD'22](https://y2022.lasd.pl), [LASD@SAC'23](https://y2023.lasd.pl), [LASD@SAC'24](https://lasd.pl), [LASD@ISD'24](https://isd2024.ug.edu.pl/call-for-papers/tracks/#track_3)
 -	Program Co-Chair of the 24th Conference on Practical Aspects of and Solutions for Software Engineering ([KKIO'23](https://kkio.lasd.pl))
 -	Co-Chair of the Workshop on Personalization and Recommender Systems: [PeRS@FedCSIS'22](https://fedcsis.org/2022/pers), [PeRS@ADBIS'23](https://pers2023.lasd.pl), [PeRS@ADBIS'24](https://pers.lasd.pl)
