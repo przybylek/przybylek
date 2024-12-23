@@ -22,7 +22,7 @@ Adam Przybyłek is an assistant professor at Gdansk University of Technology in 
 -	ACM Symposium on Applied Computing: Special Track on Operating Systems: SAC'15, SAC'16, SAC'17, SAC'18, SAC'19, SAC'20, SAC'21, SAC'22, SAC'23, [SAC'24](https://sites.google.com/view/sac2024os), [SAC'25](https://sites.google.com/view/ossp2025)
 - 11th European Conference On Service-Oriented And Cloud Computing ([ESOCC'25](https://conf.researchr.org/home/esocc-2025))
 - ADBIS Workshop on Modern Approaches in Data Engineering and Information System Design: MADEISD'19, MADEISD'20, MADEISD'21, MADEISD'22, [MADEISD'23](https://adbis2023.fon.bg.ac.rs), [MADEISD'24](https://madeisd.fon.bg.ac.rs/2024.html)
--	International Conference on Information, Process, and Knowledge Management: eKNOW'21, eKNOW'22, eKNOW'23, [eKNOW'24](https://www.iaria.org/conferences2024/eKNOW24.html), , [eKNOW'25](https://www.iaria.org/conferences2025/ComeKNOW25.html)
+-	International Conference on Information, Process, and Knowledge Management: eKNOW'21, eKNOW'22, eKNOW'23, [eKNOW'24](https://www.iaria.org/conferences2024/eKNOW24.html), [eKNOW'25](https://www.iaria.org/conferences2025/ComeKNOW25.html)
 -	International Workshop on Recent Advances in Program Analysis and Software Testing: [RAPAST@TENCON'19](https://www.tencon2019.org/SS02.pdf), [RAPAST@ISEC'23](https://rapast2023.github.io/rapast), [RAPAST@QRS'24](https://qrs24.techconf.org/track/workshops/rapast)
 -	International Conference on Information Systems Development: ISD'08, ISD'09, ISD'24
 -	Supervisory Committee of the Software Systems Development & Applications area at FedCSIS'17
