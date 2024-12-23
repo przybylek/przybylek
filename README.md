@@ -16,7 +16,8 @@ Adam Przybyłek is an assistant professor at Gdansk University of Technology in 
 ## Programme Committees
 
 -	International Conference on Agile Software Development: XP'23, [XP'24](https://www.agilealliance.org/xp2024), [XP'25](https://conf.researchr.org/home/xp-2025)
-- 50th Euromicro Conference Series on Software Engineering and Advanced Applications ([SEAA'24](https://dsd-seaa.com/kkio/))
+- Euromicro Conference Series on Software Engineering and Advanced Applications: [SEAA'24](https://dsd-seaa.com/seaa2024/), [SEAA'25](https://dsd-seaa.com/kkio/)
+- 36th International Conference on Database and Expert Systems Applications ([DEXA'25](https://www.dexa.org/2025/dexa2025.html))
 -	International Conference on Evaluation of Novel Approaches to Software Engineering: ENASE'15, ENASE'16, ENASE'17, ENASE'18, ENASE'19, ENASE'20, ENASE'21, ENASE'22, ENASE'23, ENASE'24, [ENASE'25](https://enase.scitevents.org)
 -	ACM Symposium on Applied Computing: Special Track on Operating Systems: SAC'15, SAC'16, SAC'17, SAC'18, SAC'19, SAC'20, SAC'21, SAC'22, SAC'23, [SAC'24](https://sites.google.com/view/sac2024os), [SAC'25](https://sites.google.com/view/ossp2025)
 - 11th European Conference On Service-Oriented And Cloud Computing ([ESOCC'25](https://conf.researchr.org/home/esocc-2025))
