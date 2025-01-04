@@ -29,7 +29,7 @@ Adam Przybyłek is an assistant professor at Gdansk University of Technology in 
 
 ## Editorial Boards
 
--	e-Informatica Software Engineering Journal [EISEJ](https://www.e-informatyka.pl)
+-	e-Informatica Software Engineering Journal ([EISEJ](https://www.e-informatyka.pl))
 
 ## Contact
 
