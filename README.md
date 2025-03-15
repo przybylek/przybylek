@@ -8,7 +8,7 @@ Adam Przybyłek is an assistant professor at Gdansk University of Technology in 
 -	Program Chair of the 32nd International Conference on Information Systems Development ([ISD'24](https://isd2024.ug.edu.pl))
 -	Program Co-Chair of the 39th ACM/SIGAPP Symposium On Applied Computing ([ACM SAC'24](https://www.sigapp.org/sac/sac2024))
 -	Poster Co-Chair of the 25th International Conference on Agile Software Development ([Posters@XP'24](https://www.agilealliance.org/xp2024/posters/))
--	Chair of the International Conference (converted into a track under the same name in 2023) on Lean and Agile Software Development ([https://lasd.pl](https://lasd.pl)): [LASD@FedCSIS'17](https://www.fedcsis.org/2017/lasd), [LASD@FedCSIS'18](https://www.fedcsis.org/2018/lasd), [LASD@FedCSIS'19](https://www.fedcsis.org/2019/lasd), [LASD@FedCSIS'20](https://www.fedcsis.org/2020/lasd), [LASD'21](https://y2021.lasd.pl), [LASD'22](https://y2022.lasd.pl), [LASD@SAC'23](https://y2023.lasd.pl), [LASD@SAC'24](https://y2024.lasd.pl), [LASD@ISD'24](https://isd2024.ug.edu.pl/call-for-papers/tracks/#track_3), [LASD@ISD'25](https://lasd.pl)
+-	Chair of the International Conference (converted into a track under the same name in 2023) on Lean and Agile Software Development ([https://lasd.pl](https://lasd.pl)): [LASD@FedCSIS'17](https://www.fedcsis.org/2017/lasd), [LASD@FedCSIS'18](https://www.fedcsis.org/2018/lasd), [LASD@FedCSIS'19](https://www.fedcsis.org/2019/lasd), [LASD@FedCSIS'20](https://www.fedcsis.org/2020/lasd), [LASD'21](https://y2021.lasd.pl), [LASD'22](https://y2022.lasd.pl), [LASD@SAC'23](https://y2023.lasd.pl), [LASD@SAC'24](https://y2024.lasd.pl), [LASD@ISD'24](https://y2024b.lasd.pl), [LASD@ISD'25](https://lasd.pl)
 -	Program Co-Chair of the 24th Conference on Practical Aspects of and Solutions for Software Engineering ([KKIO'23](https://kkio.lasd.pl))
 -	Co-Chair of the Workshop on Personalization and Recommender Systems: [PeRS@FedCSIS'22](https://fedcsis.org/2022/pers), [PeRS@ADBIS'23](https://pers2023.lasd.pl), [PeRS@ADBIS'24](https://pers.lasd.pl)
 -	Co-Chair of the Symposium on Balancing Traditional and Modern Software Process Approaches ([BTMSPA'16](https://fedcsis.org/2016/btmspa))
@@ -24,7 +24,7 @@ Adam Przybyłek is an assistant professor at Gdansk University of Technology in 
 - ADBIS Workshop on Modern Approaches in Data Engineering and Information System Design: MADEISD'19, MADEISD'20, MADEISD'21, MADEISD'22, [MADEISD'23](https://adbis2023.fon.bg.ac.rs), [MADEISD'24](https://madeisd.fon.bg.ac.rs/2024.html), [MADEISD'25](https://madeisd.fon.bg.ac.rs/2025.html)
 -	International Conference on Information, Process, and Knowledge Management: eKNOW'21, eKNOW'22, eKNOW'23, [eKNOW'24](https://www.iaria.org/conferences2024/eKNOW24.html), [eKNOW'25](https://www.iaria.org/conferences2025/ComeKNOW25.html)
 -	International Workshop on Recent Advances in Program Analysis and Software Testing: [RAPAST@TENCON'19](https://www.tencon2019.org/SS02.pdf), [RAPAST@ISEC'23](https://rapast2023.github.io/rapast), [RAPAST@QRS'24](https://qrs24.techconf.org/track/workshops/rapast)
--	International Conference on Information Systems Development: ISD'08, ISD'09, ISD'24
+-	International Conference on Information Systems Development: ISD'08, ISD'09, [ISD'24](https://isd2024.ug.edu.pl/committees/#track_5), [ISD'25](https://isd2025.fon.bg.ac.rs/committees/#track-committee)
 -	Supervisory Committee of the Software Systems Development & Applications area at FedCSIS'17
 
 ## Editorial Boards
