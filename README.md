@@ -34,7 +34,7 @@ Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of
 ## Contact
 
 - Email: adam.przybylek@gmail.com
-- Alternative email: adam.przybylek@pg.edu.pl
+- Alternative emails: adam.przybylek@universityofgalway.ie, adam.przybylek@pg.edu.pl
 - LinkedIn: [https://www.linkedin.com/in/adampap/](https://www.linkedin.com/in/adampap/)
 - DBLP: [https://dblp.org/pid/90/8118.html](https://dblp.org/pid/90/8118.html)
 - ORCID: [https://orcid.org/0000-0002-8231-709X](https://orcid.org/0000-0002-8231-709X)
