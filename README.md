@@ -1,6 +1,6 @@
 ## Short Bio
 
-Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of Galway in Ireland and an Assistant Professor at Gdansk University of Technology in Poland. He holds a master's degree in Information Systems and a PhD degree in Software Engineering. In the past, he was a network consultant and instructor at the Cisco Networking Academy. More recently, he worked as a data scientist at Decision Sciences Company, where he developed innovative AI-powered solutions that supported the car insurance sales process. His main research interests are in empirical software engineering with focus on agile software development, software modularity, and aspect-oriented programming. 
+Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of Galway (J.E. Cairnes School of Business and Economics) in Ireland and an Assistant Professor at Gdansk University of Technology (Faculty of Electronics, Telecommunications and Informatics) in Poland. He holds a master's degree in Information Systems and a PhD degree in Software Engineering. In the past, he was a network consultant and instructor at the Cisco Networking Academy. More recently, he worked as a data scientist at Decision Sciences Company, where he developed innovative AI-powered solutions that supported the car insurance sales process. His main research interests are in empirical software engineering with focus on agile software development, software modularity, and aspect-oriented programming. 
 
 ## Organizing Committees
 
@@ -18,7 +18,7 @@ Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of
 -	International Conference on Agile Software Development: XP'23, [XP'24](https://www.agilealliance.org/xp2024), [XP'25](https://conf.researchr.org/home/xp-2025)
 - Euromicro Conference Series on Software Engineering and Advanced Applications: [SEAA'24](https://dsd-seaa.com/seaa2024/), [SEAA'25](https://dsd-seaa.com/kkio/)
 - 36th International Conference on Database and Expert Systems Applications ([DEXA'25](https://www.dexa.org/2025/dexa2025.html))
--	International Conference on Evaluation of Novel Approaches to Software Engineering: ENASE'15, ENASE'16, ENASE'17, ENASE'18, ENASE'19, ENASE'20, ENASE'21, ENASE'22, ENASE'23, ENASE'24, [ENASE'25](https://enase.scitevents.org)
+-	International Conference on Evaluation of Novel Approaches to Software Engineering: ENASE'15, ENASE'16, ENASE'17, ENASE'18, ENASE'19, ENASE'20, ENASE'21, ENASE'22, ENASE'23, ENASE'24, ENASE'25, [ENASE'26](https://enase.scitevents.org)
 -	ACM Symposium on Applied Computing: Special Track on Operating Systems: SAC'15, SAC'16, SAC'17, SAC'18, SAC'19, SAC'20, SAC'21, SAC'22, SAC'23, [SAC'24](https://sites.google.com/view/sac2024os), [SAC'25](https://sites.google.com/view/ossp2025)
 - 11th European Conference On Service-Oriented And Cloud Computing ([ESOCC'25](https://conf.researchr.org/home/esocc-2025))
 - ADBIS Workshop on Modern Approaches in Data Engineering and Information System Design: MADEISD'19, MADEISD'20, MADEISD'21, MADEISD'22, [MADEISD'23](https://adbis2023.fon.bg.ac.rs), [MADEISD'24](https://madeisd.fon.bg.ac.rs/2024.html), [MADEISD'25](https://madeisd.fon.bg.ac.rs/2025.html)
