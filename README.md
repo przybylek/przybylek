@@ -8,14 +8,15 @@ Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of
 -	Program Chair of the 32nd International Conference on Information Systems Development ([ISD'24](https://isd2024.ug.edu.pl))
 -	Program Co-Chair of the 39th ACM/SIGAPP Symposium On Applied Computing ([ACM SAC'24](https://www.sigapp.org/sac/sac2024))
 -	Poster Co-Chair of the 25th International Conference on Agile Software Development ([Posters@XP'24](https://www.agilealliance.org/xp2024/posters/))
--	Chair of the International Conference (converted into a track under the same name in 2023) on Lean and Agile Software Development ([https://lasd.pl](https://lasd.pl)): [LASD@FedCSIS'17](https://www.fedcsis.org/2017/lasd), [LASD@FedCSIS'18](https://www.fedcsis.org/2018/lasd), [LASD@FedCSIS'19](https://www.fedcsis.org/2019/lasd), [LASD@FedCSIS'20](https://www.fedcsis.org/2020/lasd), [LASD'21](https://y2021.lasd.pl), [LASD'22](https://y2022.lasd.pl), [LASD@SAC'23](https://y2023.lasd.pl), [LASD@SAC'24](https://y2024.lasd.pl), [LASD@ISD'24](https://y2024b.lasd.pl), [LASD@ISD'25](https://lasd.pl)
+-	Chair of the International Conference (converted into a track under the same name in 2023) on Lean and Agile Software Development ([https://lasd.pl](https://lasd.pl)): [LASD@FedCSIS'17](https://www.fedcsis.org/2017/lasd), [LASD@FedCSIS'18](https://www.fedcsis.org/2018/lasd), [LASD@FedCSIS'19](https://www.fedcsis.org/2019/lasd), [LASD@FedCSIS'20](https://www.fedcsis.org/2020/lasd), [LASD'21](https://y2021.lasd.pl), [LASD'22](https://y2022.lasd.pl), [LASD@SAC'23](https://y2023.lasd.pl), [LASD@SAC'24](https://y2024.lasd.pl), [LASD@ISD'24](https://y2024b.lasd.pl), [LASD@ISD'25](https://lasd.pl), [LASD@ISD'26](https://y2026.lasd.pl)
 -	Program Co-Chair of the 24th Conference on Practical Aspects of and Solutions for Software Engineering ([KKIO'23](https://kkio.lasd.pl))
 -	Co-Chair of the Workshop on Personalization and Recommender Systems: [PeRS@FedCSIS'22](https://fedcsis.org/2022/pers), [PeRS@ADBIS'23](https://pers2023.lasd.pl), [PeRS@ADBIS'24](https://pers.lasd.pl)
 -	Co-Chair of the Symposium on Balancing Traditional and Modern Software Process Approaches ([BTMSPA'16](https://fedcsis.org/2016/btmspa))
 
 ## Programme Committees
 
--	International Conference on Agile Software Development: XP'23, [XP'24](https://www.agilealliance.org/xp2024), [XP'25](https://conf.researchr.org/home/xp-2025)
+- 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality ([REFSQ'26](https://2026.refsq.org/))
+- International Conference on Agile Software Development: XP'23, [XP'24](https://www.agilealliance.org/xp2024), [XP'25](https://conf.researchr.org/home/xp-2025)
 - Euromicro Conference Series on Software Engineering and Advanced Applications: [SEAA'24](https://dsd-seaa.com/seaa2024/), [SEAA'25](https://dsd-seaa.com/kkio/)
 - 36th International Conference on Database and Expert Systems Applications ([DEXA'25](https://www.dexa.org/2025/dexa2025.html))
 -	International Conference on Evaluation of Novel Approaches to Software Engineering: ENASE'15, ENASE'16, ENASE'17, ENASE'18, ENASE'19, ENASE'20, ENASE'21, ENASE'22, ENASE'23, ENASE'24, ENASE'25, [ENASE'26](https://enase.scitevents.org)
