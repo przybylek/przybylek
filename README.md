@@ -16,10 +16,10 @@ Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of
 ## Programme Committees
 
 - International Working Conference on Requirements Engineering: Foundation for Software Quality: [REFSQ'26](https://2026.refsq.org/)
-- International Conference on Agile Software Development: XP'23, [XP'24](https://www.agilealliance.org/xp2024), [XP'25](https://conf.researchr.org/home/xp-2025)
+- International Conference on Agile Software Development: XP'23, [XP'24](https://www.agilealliance.org/xp2024), [XP'25](https://conf.researchr.org/home/xp-2025), [XP'26](https://conf.researchr.org/home/xp-2026)
 - Euromicro Conference Series on Software Engineering and Advanced Applications: [SEAA'24](https://dsd-seaa.com/seaa2024/), [SEAA'25](https://dsd-seaa.com/kkio/)
 -	International Conference on Information Systems Development: ISD'08, ISD'09, [ISD'24](https://isd2024.ug.edu.pl/committees/#track_5), [ISD'25](https://isd2025.fon.bg.ac.rs/committees/#track-committee)
--	ACM Symposium on Applied Computing: Special Track on Operating Systems: SAC'15, SAC'16, SAC'17, SAC'18, SAC'19, SAC'20, SAC'21, SAC'22, SAC'23, [SAC'24](https://sites.google.com/view/sac2024os), [SAC'25](https://sites.google.com/view/ossp2025)
+-	ACM Symposium on Applied Computing: Special Track on Operating Systems: SAC'15, SAC'16, SAC'17, SAC'18, SAC'19, SAC'20, SAC'21, SAC'22, SAC'23, [SAC'24](https://sites.google.com/view/sac2024os), [SAC'25](https://sites.google.com/view/ossp2025), [SAC'26](https://sites.google.com/view/ossp2026)
 -	International Conference on Evaluation of Novel Approaches to Software Engineering: ENASE'15, ENASE'16, ENASE'17, ENASE'18, ENASE'19, ENASE'20, ENASE'21, ENASE'22, ENASE'23, ENASE'24, ENASE'25, [ENASE'26](https://enase.scitevents.org)
 - International Conference on Software Technologies: [ICSOFT'26](https://icsoft.scitevents.org)
 - International Conference on Database and Expert Systems Applications: [DEXA'25](https://www.dexa.org/2025/dexa2025.html)
