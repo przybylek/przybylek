@@ -1,6 +1,6 @@
 ## Short Bio
 
-Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of Galway (J.E. Cairnes School of Business and Economics) in Ireland and an Assistant Professor at Gdansk University of Technology (Faculty of Electronics, Telecommunications and Informatics) in Poland. He holds a master's degree in Information Systems and a PhD degree in Software Engineering. In the past, he was a network consultant and instructor at the Cisco Networking Academy. More recently, he worked as a data scientist at Decision Sciences Company, where he developed innovative AI-powered solutions that supported the car insurance sales process. His main research interests are in empirical software engineering with focus on agile software development, software modularity, and aspect-oriented programming. 
+Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of Galway (J.E. Cairnes School of Business and Economics) in Ireland. He holds a master's degree in Information Systems and a PhD degree in Software Engineering. In the past, he was a network consultant and instructor at the Cisco Networking Academy. More recently, he worked as a data scientist at Decision Sciences Company, where he developed innovative AI-powered solutions that supported the car insurance sales process. His main research interests are in empirical software engineering with focus on agile software development, software modularity, and aspect-oriented programming. 
 
 ## Organizing Committees
 
@@ -36,7 +36,7 @@ Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of
 ## Contact
 
 - Email: adam.przybylek@gmail.com
-- Alternative emails: adam.przybylek@universityofgalway.ie, adam.przybylek@pg.edu.pl
+- Alternative email: adam.przybylek@universityofgalway.ie
 - LinkedIn: [https://www.linkedin.com/in/adampap/](https://www.linkedin.com/in/adampap/)
 - DBLP: [https://dblp.org/pid/90/8118.html](https://dblp.org/pid/90/8118.html)
 - ORCID: [https://orcid.org/0000-0002-8231-709X](https://orcid.org/0000-0002-8231-709X)
