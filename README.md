@@ -23,7 +23,7 @@ Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of
 - International Working Conference on Requirements Engineering: Foundation for Software Quality: [REFSQ'26](https://2026.refsq.org/)
 - International Conference on Software Technologies: [ICSOFT'26](https://icsoft.scitevents.org)
 - International Conference on Database and Expert Systems Applications: [DEXA'25](https://www.dexa.org/2025/dexa2025.html), [DEXA'26](https://www.dexa.org/2026/dexa2026.html)
-- European Conference On Service-Oriented And Cloud Computing: [ESOCC'25](https://conf.researchr.org/home/esocc-2025)
+- European Conference On Service-Oriented And Cloud Computing: [ESOCC'25](https://conf.researchr.org/home/esocc-2025), [ESOCC'26](https://conf.researchr.org/home/esocc-2026)
 - ADBIS Workshop on Modern Approaches in Data Engineering and Information System Design: MADEISD'19, MADEISD'20, MADEISD'21, MADEISD'22, [MADEISD'23](https://adbis2023.fon.bg.ac.rs), [MADEISD'24](https://madeisd.fon.bg.ac.rs/2024.html), [MADEISD'25](https://madeisd.fon.bg.ac.rs/2025.html)
 -	International Conference on Information, Process, and Knowledge Management: eKNOW'21, eKNOW'22, eKNOW'23, [eKNOW'24](https://www.iaria.org/conferences2024/eKNOW24.html), [eKNOW'25](https://www.iaria.org/conferences2025/ComeKNOW25.html), [eKNOW'26](https://www.iaria.org/conferences2026/eKNOW26.html)
 -	International Workshop on Recent Advances in Program Analysis and Software Testing: [RAPAST@TENCON'19](https://www.tencon2019.org/SS02.pdf), [RAPAST@ISEC'23](https://rapast2023.github.io/rapast), [RAPAST@QRS'24](https://qrs24.techconf.org/track/workshops/rapast)
