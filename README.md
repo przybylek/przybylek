@@ -4,6 +4,7 @@ Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of
 
 ## Organizing Committees
 
+-	Program Chair of the 34th International Conference on Information Systems Development ([ISD'26](https://isd2026.ksi.fit.cvut.cz))
 -	Program Co-Chair of the 40th ACM/SIGAPP Symposium On Applied Computing ([ACM SAC'25](https://www.sigapp.org/sac/sac2025))
 -	Program Chair of the 32nd International Conference on Information Systems Development ([ISD'24](https://isd2024.ug.edu.pl))
 -	Program Co-Chair of the 39th ACM/SIGAPP Symposium On Applied Computing ([ACM SAC'24](https://www.sigapp.org/sac/sac2024))
