@@ -21,7 +21,7 @@ Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of
 -	International Conference on Information Systems Development: ISD'08, ISD'09, [ISD'24](https://isd2024.ug.edu.pl/committees/#track_5), [ISD'25](https://isd2025.fon.bg.ac.rs/committees/#track-committee), [ISD'26](https://isd2026.ksi.fit.cvut.cz/committees/#track-committee) 
 -	ACM Symposium on Applied Computing: Special Track on Operating Systems: SAC'15, SAC'16, SAC'17, SAC'18, SAC'19, SAC'20, SAC'21, SAC'22, SAC'23, [SAC'24](https://sites.google.com/view/sac2024os), [SAC'25](https://sites.google.com/view/ossp2025), [SAC'26](https://sites.google.com/view/ossp2026)
 -	International Conference on Evaluation of Novel Approaches to Software Engineering: ENASE'15, ENASE'16, ENASE'17, ENASE'18, ENASE'19, ENASE'20, ENASE'21, ENASE'22, ENASE'23, ENASE'24, ENASE'25, [ENASE'26](https://enase.scitevents.org)
-- International Working Conference on Requirements Engineering: Foundation for Software Quality: [REFSQ'26](https://2026.refsq.org/)
+- International Working Conference on Requirements Engineering: Foundation for Software Quality: [REFSQ'26](https://2026.refsq.org/), [REFSQ'27](https://2027.refsq.org/)
 - International Conference on Software Technologies: [ICSOFT'26](https://icsoft.scitevents.org)
 - International Conference on Database and Expert Systems Applications: [DEXA'25](https://www.dexa.org/2025/dexa2025.html), [DEXA'26](https://www.dexa.org/2026/dexa2026.html)
 - European Conference On Service-Oriented And Cloud Computing: [ESOCC'25](https://conf.researchr.org/home/esocc-2025), [ESOCC'26](https://conf.researchr.org/home/esocc-2026)
