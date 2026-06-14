@@ -30,9 +30,9 @@ Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of
 -	International Workshop on Recent Advances in Program Analysis and Software Testing: [RAPAST@TENCON'19](https://www.tencon2019.org/SS02.pdf), [RAPAST@ISEC'23](https://rapast2023.github.io/rapast), [RAPAST@QRS'24](https://qrs24.techconf.org/track/workshops/rapast)
 -	Supervisory Committee of the Software Systems Development & Applications area at FedCSIS'17
 
-## Associate Editor
+## Editorial Boards
 
--	e-Informatica Software Engineering Journal ([EISEJ](https://www.e-informatyka.pl))
+- Associate Editor, e-Informatica Software Engineering Journal ([EISEJ](https://www.e-informatyka.pl))
 
 ## Contact
 
