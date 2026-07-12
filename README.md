@@ -1,6 +1,10 @@
 ## Short Bio
 
-Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of Galway (J.E. Cairnes School of Business and Economics) in Ireland and an Assistant Professor at Gdansk University of Technology (Faculty of Electronics, Telecommunications and Informatics) in Poland. He holds a master's degree in Information Systems and a PhD degree in Software Engineering. In the past, he was a network consultant and instructor at the Cisco Networking Academy. More recently, he worked as a data scientist at Decision Sciences Company, where he developed innovative AI-powered solutions that supported the car insurance sales process. His main research interests are in empirical software engineering with focus on agile software development, software modularity, and aspect-oriented programming. 
+Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of Galway (J.E. Cairnes School of Business and Economics) in Ireland and an Assistant Professor at Gdansk University of Technology (Faculty of Electronics, Telecommunications and Informatics) in Poland. He holds a Master's degree in Information Systems and a PhD in Software Engineering.
+
+Early in his career, he worked as a network consultant and instructor at the Cisco Networking Academy. He also worked as a data scientist at Decision Sciences Company, where he developed innovative AI-powered solutions to support the car insurance sales process. More recently, he completed two secondments totaling eight months at Blekinge Institute of Technology (BTH) in Sweden, where he collaborated with Ericsson to improve agile retrospective practices in hybrid and remote teams.
+
+His main research interests are in empirical software engineering, with a focus on agile software development, software modularity, and aspect-oriented programming. 
 
 ## Organizing Committees
 
