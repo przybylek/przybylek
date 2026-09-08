@@ -1,10 +1,10 @@
 ## Short Bio
 
-Adam Przybylek is a Marie Skłodowska-Curie Research Fellow at the University of Galway (J.E. Cairnes School of Business and Economics) in Ireland and an Assistant Professor at Gdansk University of Technology (Faculty of Electronics, Telecommunications and Informatics) in Poland. He holds a Master's degree in Information Systems and a PhD in Software Engineering.
+Adam Przybylek is an Assistant Professor at Gdansk University of Technology (Faculty of Electronics, Telecommunications and Informatics) in Poland. Prior to this role, he was a Marie Skłodowska-Curie Research Fellow at the University of Galway (J.E. Cairnes School of Business and Economics) in Ireland. He holds a Master's degree in Information Systems and a PhD in Software Engineering.
 
-Early in his career, he worked as a network consultant and instructor at the Cisco Networking Academy. He also worked as a data scientist at Decision Sciences Company, where he developed innovative AI-powered solutions to support the car insurance sales process. More recently, he completed two secondments totaling eight months at Blekinge Institute of Technology (BTH) in Sweden, where he collaborated with Ericsson to improve agile retrospective practices in hybrid and remote teams.
+His industry experience includes working as a network consultant and instructor at the Cisco Networking Academy, and as a data scientist at Decision Sciences Company, where he developed innovative AI-powered solutions to support the car insurance sales process. More recently, he completed two secondments totaling eight months at Blekinge Institute of Technology (BTH) in Sweden, where he collaborated with Ericsson to improve agile retrospective practices in hybrid and remote teams.
 
-His main research interests are in empirical software engineering, with a focus on agile software development, software modularity, and aspect-oriented programming. 
+His main research interests are in empirical software engineering, with a focus on agile software development and software modularity.
 
 ## Organizing Committees
 
