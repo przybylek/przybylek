@@ -20,7 +20,7 @@ His main research interests are in empirical software engineering, with a focus 
 
 ## Programme Committees
 
-- International Conference on Agile Software Development: XP'23, [XP'24](https://www.agilealliance.org/xp2024), [XP'25](https://conf.researchr.org/home/xp-2025), [XP'26](https://conf.researchr.org/home/xp-2026)
+- International Conference on Agile Software Development: XP'23, [XP'24](https://www.agilealliance.org/xp2024), [XP'25](https://conf.researchr.org/home/xp-2025), [XP'26](https://conf.researchr.org/home/xp-2026), [XP'27](https://conf.researchr.org/home/xp-2027)
 - Euromicro Conference Series on Software Engineering and Advanced Applications: [SEAA'24](https://dsd-seaa.com/seaa2024/), [SEAA'25](https://dsd-seaa.com/seaa2025/), [SEAA'26](https://dsd-seaa.com/kkio/)
 -	International Conference on Information Systems Development: ISD'08, ISD'09, [ISD'24](https://isd2024.ug.edu.pl/committees/#track_5), [ISD'25](https://isd2025.fon.bg.ac.rs/committees/#track-committee), [ISD'26](https://isd2026.ksi.fit.cvut.cz/committees/#track-committee) 
 -	ACM Symposium on Applied Computing: Special Track on Operating Systems: SAC'15, SAC'16, SAC'17, SAC'18, SAC'19, SAC'20, SAC'21, SAC'22, SAC'23, [SAC'24](https://sites.google.com/view/sac2024os), [SAC'25](https://sites.google.com/view/ossp2025), [SAC'26](https://sites.google.com/view/ossp2026), [SAC'27](https://sites.google.com/view/ossp2027)
